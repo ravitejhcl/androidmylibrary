@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         HelloWordl.printLog("From_SDK", "Hello from SDK");
+        HelloWordl.printRaviTeja("test", "testRavi");
     }
 }
