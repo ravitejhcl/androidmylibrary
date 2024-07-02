@@ -65,7 +65,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.ravitejhcl'
             artifactId = 'androidmylibrary'
-            version = "1.0.0"
+            version = "1.0.1"
             pom {
                 description = 'First Android Library'
             }
