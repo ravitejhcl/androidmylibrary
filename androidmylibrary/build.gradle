@@ -67,7 +67,7 @@ publishing {
             artifactId = 'androidmylibrary'
             version = "1.0.1"
             pom {
-                description = 'First Android Library'
+                description = '1.0.1 Android Library'
             }
         }
     }
